@@ -1,0 +1,12 @@
+Basics of Next.js Test
+
+1.Create a Next boilerplate app.
+2.Play around with Routing.
+3.Create a Layout component for your pages and play around with the Head component from next.
+4.Play around with the _document.tsx file.
+5.Create an app(with data from an api) like you would do in React.
+6.Play around with getStaticProps().
+7.Play around with Nested Routing.
+8.Play around with getServerSideProps() in combo with getStaticPaths().
+9.Play around with making an API inside your pages/api folder
+10.Create a config file,custom components,etc

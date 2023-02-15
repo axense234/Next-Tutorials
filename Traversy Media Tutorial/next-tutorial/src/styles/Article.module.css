@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  border: 1.5px solid black;
+  flex-direction: column;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 40%);
+  justify-content: space-evenly;
+  row-gap: 2rem;
+}

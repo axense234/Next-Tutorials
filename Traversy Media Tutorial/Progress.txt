@@ -1,0 +1,21 @@
+Next.js Crash Course(https://www.youtube.com/watch?v=mTz0GXj8NN0&ab_channel=TraversyMedia):
+-done Intro and Slides
+-done Getting setup with create-next-app
+-done Files and Folders
+-done Pages and Routing
+-done Head
+-done Layout and CSS Modules
+-done Nav Component and Link
+-done Create a Header
+-done Styled JSX
+-done Custom Document
+-done Data Fetching
+-done getStaticProps()
+-done Showing Data
+-done Nested Routing
+-done getServerSideProps()
+-done getStaticPaths()
+-done Export a Static Website
+-done API Routes
+-done Using API Data
+-done Custom Meta Component
